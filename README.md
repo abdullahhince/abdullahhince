@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, Welcome to my Github profile 👋
 
+- 🔭 I’m currently working on Css
+- 🌱 I’m currently learning front-end and back-end develops
+- How to reach me: https://www.linkedin.com/in/abdullah-ince-872524242/
 <!--
 **abdullahhince/abdullahhince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
