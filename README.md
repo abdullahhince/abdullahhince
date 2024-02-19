@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Css
 - 🌱 I am currently learning front-end and back-end development.
-- How to reach me: https://www.linkedin.com/in/abdullah-ince-872524242/
+- How to reach me: abdullahrcp@hotmail.com
 <!--
 **abdullahhince/abdullahhince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
