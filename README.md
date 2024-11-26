@@ -1,6 +1,6 @@
 ### Hi there, Welcome to my Github profile 👋
 
-- 🔭 I’m currently working on Css
+- 🔭 I’m currently working on Html Css JS
 - 🌱 I am currently learning front-end and back-end development.
 - How to reach me: abdullahrcp@hotmail.com
 <!--
